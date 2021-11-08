@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Desing2</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="more">more</string>
+    <string name="content_description_favorite">content_description_favorite</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="content_description_more">content_description_more</string>
+    <string name="homework">homework</string>
 </resources>
